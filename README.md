@@ -1,5 +1,4 @@
-# Gouvernathor
-Hi !
+# Hi !
 
 I am a french-speaking developer mainly dedicated to creating and maintaining tools for the creation of visual novels,
 or related to constitutional law and political science.
