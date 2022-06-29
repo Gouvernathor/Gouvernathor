@@ -27,6 +27,3 @@ in a chamber of Parliament. You've probably already seen one of our diagrams, if
 
 ## Miscellaneous
 I am incidentally registered as a contributor to the cpython repository, because I once removed two repeated sentences in the documentation.
-
-# Gallery
-![ChromaGlitch](https://raw.githubusercontent.com/Gouvernathor/renpy-ChromaGlitch/main/sample_chroma.png) ![SWHolo](https://raw.githubusercontent.com/Gouvernathor/renpy-SWHolo/main/SWHolo.gif) ![ParliamentDiagram](https://raw.githubusercontent.com/Gouvernathor/parliamentdiagram/main/images/AssNat_16_groupes_2022.svg)
