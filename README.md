@@ -5,7 +5,7 @@ or related to constitutional law and political science.
 
 ## Ren'Py
 I have been contributing to the main [Ren'Py repository](github.com/renpy/renpy) since late 2020,
-and I am currently (as I'm writing this) one of its main contributors.
+and I am currently one of its maintainers.
 
 I'm also developping additional tools and snippets which can help creating games in Ren'Py, for example :
 * [ChromaGlitch](https://github.com/Gouvernathor/renpy-ChromaGlitch), a glitching effect
