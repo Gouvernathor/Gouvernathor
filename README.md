@@ -12,7 +12,7 @@ I'm also developping additional tools and snippets which can help creating games
 * [SWHolo](https://github.com/Gouvernathor/renpy-SWHolo), a hologram effect similar to the Jedi council in Star Wars
 * [PronounsClass](https://github.com/Gouvernathor/renpy-PronounsClass), a class to help managing player-chosen or otherwise dynamic pronouns
   for possibly multiple characters
-* [AttributesManager](https://github.com/Gouvernathor/renpy-AttributesManager), a toolkit to help managing the attributes passed to images,
+* [AttributesManager](https://github.com/Gouvernathor/renpy-AttributesManager), a toolkit to help managing the attributes passed to images
   (layeredimages in particular).
 
 ## Politics
@@ -25,4 +25,4 @@ I am also hosting a revamped and repaired version of the [ParliamentDiagram tool
 in a chamber of Parliament. You've probably already seen one of our diagrams, if you went on the Wikipedia page of a legislative assembly.
 
 ## Miscellaneous
-I am incidentally registered as a contributor to the cpython repository, because I once removed two repeated sentences in the documentation.
+I am incidentally registered as a contributor to the cpython repository, because I once removed two repeated sentences in the documentation. Yes, I basically saved the world.
