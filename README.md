@@ -6,7 +6,7 @@ or related to constitutional law and political science.
 If you like what I do and have some monies to spare, I have a [ko-fi page](https://ko-fi.com/gouvernathor) where you can tip my work.
 
 ## Ren'Py
-I have been contributing to the main [Ren'Py repository](github.com/renpy/renpy) since late 2020,
+I have been contributing to the main [Ren'Py repository](https://github.com/renpy/renpy) since late 2020,
 and I am currently one of its maintainers.
 
 I'm also developping additional tools and snippets which can help creating games in Ren'Py, for example :
