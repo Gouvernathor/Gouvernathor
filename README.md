@@ -3,6 +3,8 @@
 I am a french-speaking developer mainly dedicated to creating and maintaining tools for the creation of visual novels,
 or related to constitutional law and political science.
 
+If you like what I do and have some monies to spare, I have a [ko-fi page](https://ko-fi.com/gouvernathor) where you can tip my work.
+
 ## Ren'Py
 I have been contributing to the main [Ren'Py repository](github.com/renpy/renpy) since late 2020,
 and I am currently one of its maintainers.
@@ -12,6 +14,7 @@ I'm also developping additional tools and snippets which can help creating games
 * [SWHolo](https://github.com/Gouvernathor/renpy-SWHolo), a hologram effect similar to the Jedi council in Star Wars
 * [PronounsClass](https://github.com/Gouvernathor/renpy-PronounsClass), a class to help managing player-chosen or otherwise dynamic pronouns
   for possibly multiple characters
+* [TranslationTools](https://github.com/Gouvernathor/renpy-TranslationTools), some tools to help managing translation files in renpy games
 * [AttributesManager](https://github.com/Gouvernathor/renpy-AttributesManager), a toolkit to help managing the attributes passed to images
   (layeredimages in particular).
 
