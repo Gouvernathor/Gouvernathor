@@ -22,11 +22,15 @@ I'm also developping additional tools and snippets which can help creating games
 * A partial rewrite of the layeredimage syntax striving for optimization, consistency and featurefullness, which may or may not be partially
   or totally included in a future version of Ren'Py.
 
-## Politics
+## Between politics and SVGs
 I am currently hosting a saved (and multilingual) version of [PolitiScales](https://github.com/Gouvernathor/gouvernathor.github.io),
 which disappeared from its original website along with the repository hosting its code (of which this was originally a fork).
 
-I am also hosting a revamped and repaired version of the [ParliamentDiagram tool](https://parliamentarch.toolforge.org/archinputform.php)
-([my repo](https://github.com/Gouvernathor/parliamentdiagram), [original repo](https://github.com/Slashme/parliamentdiagram),
-[original website](https://parliamentdiagram.toolforge.org/parlitest.php)), whose purpose is to create beautiful and solemn displays of the political groups
+I am also contributing and maintaining the [ParliamentDiagram tool](https://parliamentdiagram.toolforge.org/archinputform.php)
+([repo](https://github.com/Slashme/parliamentdiagram)), whose purpose is to create beautiful and solemn displays of the political groups
 in a chamber of Parliament. You've probably already seen one of our diagrams, if you went on the Wikipedia page of a legislative assembly.
+The [Parliamentarch](https://github.com/Gouvernathor/parliamentarch) python module manages the geometry calculations and the SVG exports
+for those diagrams, offering more customization options than the website offers, you can import and use it yourself !
+
+I have another tool, [Py-Spangled Banner](https://github.com/Gouvernathor/py-spangled-banner), for making SVG displays of the american flag
+with a variable number of stars (among other parameters).
