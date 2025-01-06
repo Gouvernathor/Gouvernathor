@@ -37,3 +37,5 @@ A TypeScript/JavaScript reimplementation is available as the [`parliamentarch` N
 I have another tool, [Py-Spangled Banner](https://github.com/Gouvernathor/py-spangled-banner), for making SVG displays of the american flag
 with a variable number of stars (among other parameters).  
 A [TypeScript/JavaScript reimplementation](https://github.com/Gouvernathor/ts-spangled-banner) is also available.
+
+[Ecclesia-TS](https://github.com/Gouvernathor/Ecclesia-TS), or just `ecclesia` on NPM, is a library of various functions and classes for constitutional and parliamentary simulations. A demo website implementing it, named Eligo, should come to life (eventually).
