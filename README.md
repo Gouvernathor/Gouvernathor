@@ -19,8 +19,7 @@ I also created additional tools and snippets which can help creating games in Re
 * [TranslationTools](https://github.com/Gouvernathor/renpy-TranslationTools), some tools to help managing translation files in renpy games
 * [AttributesManager](https://github.com/Gouvernathor/renpy-AttributesManager), a toolkit to help managing the attributes passed to images
   (layeredimages in particular).
-* A partial rewrite of the layeredimage syntax striving for optimization, consistency and featurefullness, which may or may not be partially
-  or totally included in a future version of Ren'Py.
+* A partial rewrite of the layeredimage syntax striving for optimization, consistency and featurefullness, which is now included in Ren'Py from version 8.4 on.
 
 ## Politics and SVG
 I am currently hosting a saved (and multilingual) version of [PolitiScales](https://github.com/Gouvernathor/gouvernathor.github.io),
