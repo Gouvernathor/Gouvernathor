@@ -1,5 +1,7 @@
 # Hi !
 
+Main profile [on Codeberg](https://codeberg.org/Gouvernathor).
+
 I am a french-speaking developer mainly dedicated to creating and maintaining tools for the creation of visual novels,
 or related to constitutional law and political science.
 
